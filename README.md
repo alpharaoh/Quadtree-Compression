@@ -20,4 +20,9 @@ Algorithm in progress                |  Output
 :-----------------------------------:|:------------------------------------:
 ![](./images/man_quadtree.gif)       |  ![](/images/man_quadtree.jpg)
 
+Before
+![](/images/man.jpg)
+After
+![](/images/man_quadtree.jpg)
 ![](/images/man_quadtree_lines.jpg)
+
